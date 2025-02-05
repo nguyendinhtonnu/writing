@@ -1,3 +1,3 @@
 # My writing Project 
 
-This is a test document. [Columbia][https://columbia.edu]
+This is a test document. [Columbia](https://columbia.edu)
