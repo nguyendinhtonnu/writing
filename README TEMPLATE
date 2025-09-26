@@ -57,6 +57,12 @@ Email:
 	* If yes, name of file(s) that was updated: 
 	* Why was the file updated? 
 	* When was the file updated? 
+* Describe any missing data codes and other abbreviations used. Be as descriptive as possible.
+
+## Description of the data and file structure
+
+*This is a freeform section for you to describe how the data are structured and how a potential consumer might use them.* 
+*Be as descriptive as necessary. Keep in mind that users of your data might be new to the field and unfamiliar with common terminology, metrics, etc.*
 
 
 # METHODOLOGICAL INFORMATION
@@ -69,6 +75,8 @@ Email:
 
 ## Instrument- or software-specific information needed to interpret the data: 
 *include full name and version of software, and any necessary packages or libraries needed to run scripts*
+*describe any scripts, code, or notebooks (e.g., R, Python, Mathematica, MatLab) as well as the software versions (including loaded packages) that you used to run those files.* 
+*If your repository contains more than one file whose relationship to other scripts is not obvious, provide information about the workflow that you used to run those scripts and notebooks.*
 
 *include any additional methodological information needed to interpret and/or use the data, as appropriate*
 * Standards and calibration information, if appropriate: 
