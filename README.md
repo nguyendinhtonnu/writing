@@ -100,4 +100,4 @@ Email:
 * Specialized formats or other abbreviations used:
 
 Attribution: This template was adapted from Cornell Data Services' template for data manifests 
-[Cornell Data Services]([https://ecommons.cornell.edu/items/7dc55694-0131-499b-8df1-fa676c2589e6] 
+[Cornell Data Services]([https://ecommons.cornell.edu/items/7dc55694-0131-499b-8df1-fa676c2589e6])
