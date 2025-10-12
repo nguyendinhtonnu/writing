@@ -1,12 +1,11 @@
 # Data Manifest Readme Template
 
-
 This readme file was generated on [YYYY-MM-DD] by [NAME]
 
-*Note:
-[text within square brackets should be changed to specific information about your dataset.]
+*[text within square brackets should be changed to specific information about your dataset.]*
 *help text within asterisks should be deleted before finalizing your document*
 *not all of the fields are required for your dataset manifest, please delete the sections that you don't fill out* 
+
 
 # GENERAL INFORMATION
 
@@ -59,9 +58,9 @@ Email:
 * Relationship between files, if important: 
 * Additional related data collected that was not included in the current data package: 
 * Are there multiple versions of the dataset?
-	* If yes, name of file(s) that was updated: 
-	* Why was the file updated? 
-	* When was the file updated? 
+	* If yes, name(s) of file(s) that have been updated within this dataset: 
+	* Why were updates made? 
+	* When were the updates made?
 * Describe any missing data codes and other abbreviations used. Be as descriptive as possible.
 
 ## Description of the data and file structure
