@@ -6,6 +6,11 @@ This readme file was generated on [YYYY-MM-DD] by [NAME]
 *help text within asterisks should be deleted before finalizing your document*
 *not all of the fields are required for your dataset manifest, please delete the sections that you don't fill out* 
 
+# HUMAN SUBJECT DATA
+Academic Commons does not accept data that includes personally-identifiable information about human subjects.
+
+I, [enter name], affirm that the data I am depositing to Academic Commons does not include personally-identifiable information about human subjects.
+
 
 # GENERAL INFORMATION
 
@@ -46,8 +51,6 @@ Email:
 * Links to publications that cite or use the data: 
 * Links to other publicly accessible locations of the data: 
 * Links/relationships to ancillary data sets: 
-* Was data derived from another source?
-	* If yes, list source(s): 
 * Recommended citation for this dataset: 
 
 
@@ -90,6 +93,7 @@ Email:
 
 
 # DATA-SPECIFIC INFORMATION FOR: [FILENAME]
+*if more space is needed, provide computer-readable and human-readable data dictionaries*
 *repeat this section for each dataset, folder or file, as appropriate*
 
 * Number of variables: 
