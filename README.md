@@ -53,7 +53,8 @@ Email:
 
 # DATA & FILE OVERVIEW
 
-## File List: *list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description*
+## File List: 
+*list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description*
 
 * Relationship between files, if important: 
 * Additional related data collected that was not included in the current data package: 
