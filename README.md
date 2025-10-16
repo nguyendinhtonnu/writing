@@ -47,12 +47,12 @@ Email:
 
 # SHARING/ACCESS INFORMATION
 
-* Was data derived from another source? (Please note that you cannot upload datasets that are derived from datasets for which other entitites hold the copyright, unless those datasets are licensed to allow for this reuse)
-	* If yes, list source(s): 
 * Licenses/restrictions placed on the data: 
 * Links to publications that cite or use the data: 
 * Links to other publicly accessible locations of the data: 
-* Links/relationships to ancillary data sets: 
+* Links/relationships to ancillary data sets:
+* Was data derived from another source? (Please note that you cannot upload datasets that are derived from datasets for which other entitites hold the copyright, unless those datasets are licensed to allow for this reuse)
+	* If yes, list source(s): 
 * Recommended citation for this dataset: 
 
 
