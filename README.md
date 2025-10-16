@@ -41,6 +41,7 @@ Email:
 
 
 # SHARING/ACCESS INFORMATION
+You must select a license for your data. Example licenses: https://creativecommons.org/share-your-work/
 
 * Licenses/restrictions placed on the data: 
 * Links to publications that cite or use the data: 
