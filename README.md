@@ -77,5 +77,5 @@ I, [NAME], affirm that the data I am depositing to Academic Commons does not inc
 #### Specialized formats or other abbreviations used:
 
 
-## ATTRIBUTION
+## ATTRIBUTION FOR THIS MANIFEST
 This template was adapted from Cornell University Library's [Readme Template for Data](https://doi.org/10.7298/mhns-zm71.2).
